@@ -1,4 +1,15 @@
-## API REST QUE POSSUI OS SEGUINTES END-POINTS
+## TECNOLOGIAS UTILIZADAS
+
+1. PHP
+2. FRAMEWORK LARAVEL
+3. MYSQL
+4. LARAGON
+
+## ARQUITETURA
+
+1. MVC LARAVEL
+
+## END-POINTS
 
 1. Uma rota que permite cadastrar retângulos:
    Endpoint: http://localhost:8000/api/retangulos(post)
